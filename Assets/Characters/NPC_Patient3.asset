@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f920633c5e8dc8f4d898f96dcbaba057, type: 3}
+  m_Name: NPC_Patient3
+  m_EditorClassIdentifier: 
+  name: Patient 3
+  image: {fileID: 147037252, guid: 0ea4ad7cca712c0468d258d4f3447a06, type: 3}
+  sentences:
+  - 'I need help! I have fallen terribly ill and need your assistance, traveller.
+    Please find a plant with the medicinal traits: Immune Support, Anxiety Relief,
+    Antimalarial.'
+  needsTreatment: 1
+  requiredMedicinalValues: []

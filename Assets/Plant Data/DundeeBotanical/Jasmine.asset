@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Jasmine
+  m_EditorClassIdentifier: 
+  plantName: Jasmine
+  plantImage: {fileID: 1714323828, guid: f958e40f69a0af4448a425043feca5e7, type: 3}
+  plantSentences:
+  - Jasmine plants are cherished for their highly fragrant white flowers, which bloom
+    profusely in warmer climates. Beyond their decorative use, jasmine flowers are
+    integral to the production of aromatic oils and teas. The plant contributes to
+    cardiac health and acts as a soothing agent for the nervous system, while also
+    offering notable anxiety relief. This combination of uses makes jasmine a multifaceted
+    plant in both ornamental and medicinal landscapes.
+  plantEffects:
+  - Cardiovascular Health
+  - Soothing
+  - Anxiety Relief

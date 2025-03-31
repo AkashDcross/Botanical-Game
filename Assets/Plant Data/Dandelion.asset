@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Dandelion
+  m_EditorClassIdentifier: 
+  plantName: Dandelion
+  plantImage: {fileID: -582383214, guid: a698ed4b22498434f8a05b25548477e2, type: 3}
+  plantSentences:
+  - Dandelion is ubiquitous with its yellow flowers and fluffy seed heads. It cleanses
+    the liver, boosts energy, and supports immune health. Its leaves and roots are
+    rich in nutrients, making it a versatile addition to both medicinal and nutritional
+    applications.
+  plantEffects:
+  - Energy Booster
+  - Immune Support
+  - Liver Health

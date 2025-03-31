@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Lantana
+  m_EditorClassIdentifier: 
+  plantName: Lantana
+  plantImage: {fileID: -1065449495, guid: f958e40f69a0af4448a425043feca5e7, type: 3}
+  plantSentences:
+  - All lantana should be treated as poisonous to stock. Red flowered varieties are
+    thought to be the most toxic but some white and pink flowered varieties can also
+    be highly toxic.  They are considered mildly toxic to children, toddlers, and
+    babies. The symptoms of ingestion are generally mild, but some cases of vomiting
+    and diarrhea have been reported.
+  plantEffects:
+  - Poisonous
+  - Poisonous
+  - Poisonous

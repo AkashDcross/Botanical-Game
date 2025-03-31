@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f920633c5e8dc8f4d898f96dcbaba057, type: 3}
+  m_Name: ElderDruid 1
+  m_EditorClassIdentifier: 
+  name: Elder Druid
+  image: {fileID: 1275519142, guid: ba5ead3adf4974747bc2fbfb92e32413, type: 3}
+  sentences:
+  - "Ah, you have arrived, brave one. I am the Elder Dryad, guardian of these botanical
+    gardens for countless generations. But alas, my time as caretaker is drawing
+    to a close. The winds of change whisper to me that the garden must have a new
+    guardian\u2014a healer who will learn its secrets and use its gifts to aid those
+    in need."
+  - "You have been chosen because you possess a heart both curious and kind. This
+    world of botanical wonders is not just a sanctuary for plants, but a source of
+    healing. However, a great tragedy has befallen this place. A mysterious ailment
+    has struck the inhabitants of the land\u2014patients who lie scattered across
+    the map, sick, unconscious, and in desperate need of help."
+  - But beware, for not all plants are what they seem. Among the many that offer
+    healing, some harbor deadly poisons. You must learn to discern between them,
+    for the wrong choice could lead to dire consequences.
+  - Begin with the garden, child. It will teach you, as it taught me. Study the plants,
+    learn their properties, and remember that every leaf, every petal, holds a story.
+    The fate of those afflicted lies in your hands. Now, go forth, and may the wisdom
+    of the garden guide you.
+  - "And remember\u2026"
+  - Not all is as it seems.

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Docky
+  m_EditorClassIdentifier: 
+  plantName: Dock
+  plantImage: {fileID: 44006337, guid: edc91de64f667a84d9a7e52ca07b0417, type: 3}
+  plantSentences:
+  - Dock plants feature broad leaves and tall reddish-brown stalks, thriving globally
+    in disturbed soils. They aid digestion, soothe skin irritations with their anti-inflammatory
+    properties, and are a rich source of iron, beneficial for treating anemia and
+    boosting vitality.
+  plantEffects:
+  - Digestive Aid
+  - Skin Health
+  - Iron Source

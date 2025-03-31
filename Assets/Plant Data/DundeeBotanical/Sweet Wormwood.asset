@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Sweet Wormwood
+  m_EditorClassIdentifier: 
+  plantName: Sweet Wormwood
+  plantImage: {fileID: 841558436, guid: f958e40f69a0af4448a425043feca5e7, type: 3}
+  plantSentences:
+  - "Sweet Wormwood, or Artemisia annua, is a plant with finely divided leaves and
+    aromatic yellow flowers, known for its role in Chinese medicine as an effective
+    treatment for fevers and malaria. The plant\u2019s ability to combat malaria
+    is due to the compound artemisinin, which has been a breakthrough in treating
+    malaria globally. In addition to its antimalarial properties, Sweet Wormwood
+    is utilized for boosting the immune system and providing relief from anxiety,
+    making it a vital herb in various medicinal preparations."
+  plantEffects:
+  - Immune Support
+  - Anxiety Relief
+  - Antimalarial

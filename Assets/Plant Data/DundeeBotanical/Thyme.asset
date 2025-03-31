@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: Thyme
+  m_EditorClassIdentifier: 
+  plantName: Thyme
+  plantImage: {fileID: 1846454407, guid: f958e40f69a0af4448a425043feca5e7, type: 3}
+  plantSentences:
+  - Thyme is a small, perennial shrub with a woody stem, small leaves, and a distinct,
+    pungent aroma. This culinary herb is as much a kitchen staple as a medicinal
+    powerhouse. Traditionally, thyme has been used to aid respiratory health, a use
+    that continues to be one of its primary applications today. It also possesses
+    strong antimicrobial properties, which make it beneficial in fighting infections,
+    and it supports digestive health, helping to ease stomach ailments and improve
+    digestion.
+  plantEffects:
+  - Respiratory Aid
+  - Antimicrobial
+  - Digestive Health

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308fcac37bd7bd3418861fe65a169c0b, type: 3}
+  m_Name: HemlockWaterDropwort
+  m_EditorClassIdentifier: 
+  plantName: Hemlock Water Dropwort
+  plantImage: {fileID: -995323037, guid: f958e40f69a0af4448a425043feca5e7, type: 3}
+  plantSentences:
+  - Hemlock water-dropwort is considered to be the most poisonous plant in the UK.
+    All parts of the plant are poisonous and symptoms can include; vomiting, seizures,
+    paralysis, hallucinations and death.
+  plantEffects:
+  - Poisonous
+  - Poisonous
+  - Poisonous
