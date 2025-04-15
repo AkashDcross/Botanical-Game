@@ -44,7 +44,7 @@ C# – Scripting for all gameplay logic and interactions.
 
 ShaderLab – Custom shaders and visual effects.
 
-# � Getting Started
+#  Getting Started
 ## 🔧 Prerequisites
 Make sure you have:
 
