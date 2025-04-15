@@ -20,8 +20,10 @@ Plant Encyclopedia – View details about each plant including species info, hab
 
 - **W / A / S / D** – Move the player character
 - **Left Click** – Interact with plants and objects
-- **Esc** – Pause or open the menu (if implemented)
-- **Mouse Movement** – Look around and inspect surroundings (if in 3D mode)
+- **J Key** – Opens plant encyclopedia
+- **K Key** – Opens plant cure identificaiton journal
+- **Mouse Scroll** – Zoom in and out for map coverage
+- **Numbers [1 - 6]** – Hotbar plant selection
 
 
 ### 🌟 Key Features
