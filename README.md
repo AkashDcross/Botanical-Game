@@ -32,6 +32,8 @@ Plant Encyclopedia – View details about each plant including species info, hab
 - 🔄 **Replayable Learning** – Each session presents different challenges and plants.
 - 📘 **In-Game Encyclopedia** – Collect and review discovered plants.
 - 📘 **In-Game Identification Journal** –  Review the qualities and traits of discovered medicinal plants to cure patients.
+- 📘 **Hotbar Feature** – Quick access to collected plants.
+- 📘 **Patient NPC's** – Randomised NPCs requiring cures from medicinal plants.
 
 ## 🧠 Technologies Used
 Unity – Game engine used to build the application.
