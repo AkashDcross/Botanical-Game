@@ -14,6 +14,25 @@ Learning Challenges – Complete quizzes and tasks that reinforce plant knowledg
 
 Plant Encyclopedia – View details about each plant including species info, habitat, and care.
 
+## 🕹️ Controls & Features
+
+### 🎮 Controls
+
+- **W / A / S / D** – Move the player character
+- **Left Click** – Interact with plants and objects
+- **Esc** – Pause or open the menu (if implemented)
+- **Mouse Movement** – Look around and inspect surroundings (if in 3D mode)
+
+
+### 🌟 Key Features
+
+- 🌱 **Interactive Plant Zones** – Learn about real-world plant species through direct interaction.
+- 🧠 **Educational Challenges** – Engage with tasks to test your botanical knowledge.
+- 🎨 **Visually Rich Environment** – Walk through a beautifully designed virtual garden.
+- 🔄 **Replayable Learning** – Each session presents different challenges and plants.
+- 📘 **In-Game Encyclopedia** – Collect and review discovered plants.
+- 📘 **In-Game Identification Journal** –  Review the qualities and traits of discovered medicinal plants to cure patients.
+
 ## 🧠 Technologies Used
 Unity – Game engine used to build the application.
 
